@@ -1,0 +1,5 @@
+node_modules
+dist
+tsconfig.tsbuildinfo
+# Third-party skill without a license: installed locally, not redistributed
+.claude/skills/apple-design/

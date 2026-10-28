@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "edp-engine": {
+      "command": "/home/sixlordz/Documents/EDP-engine/node_modules/.bin/tsx",
+      "args": [
+        "/home/sixlordz/Documents/EDP-engine/server/mcp.ts"
+      ]
+    }
+  }
+}
